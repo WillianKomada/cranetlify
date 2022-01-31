@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <div>
-      <h1>How to deploy an app in Netlify.</h1>
+      <h1>Como publicar um projeto no Netlify.</h1>
 
       <ol>
         <li>Publicar um app criado com create react-app;</li>
